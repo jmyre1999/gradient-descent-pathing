@@ -21,5 +21,7 @@ This program is a demonstration of the gradient descent algorithm for pathing ar
 
 #### References: 
 Algorithm: *Cost Minimization for Animated Geometric Models in Computer Graphics* by David E. Breen
+
 Documentation for Vpython: https://www.glowscript.org/docs/VPythonDocs/index.html
+
 Documentation for NumPy: https://numpy.org/doc/
